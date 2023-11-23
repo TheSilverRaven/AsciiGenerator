@@ -1,6 +1,9 @@
 # AsciiGenerator
 A quick and simple Image to Ascii converter console application.
 
+## Use in your own project
+Create a c# console application and paste in these files. Build/Debug build and tada! done :>
+
 ## How to use
 Drag and drop image file onto the application to convert it, just run program to edit configs.
 
